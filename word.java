@@ -40,7 +40,7 @@ public class word {
 		}
 		
 		// System.out.print prints out to the console
-		// out.print uses that PrintWriter we made to print to a file (for submitting)
+		// out.print uses the PrintWriter we made to print to a file (for submitting)
 
 		in.close();
 		out.close();
