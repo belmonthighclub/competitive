@@ -33,7 +33,7 @@ public class guess {
 				for(String c : map.get(a)) { // loop through animal a's traits
 					if(map.get(b).contains(c)) {
 						// does animal b have trait c?
-						// it yes, increase count
+						// if yes, increase count
 						commonCount++;
 					}
 				}
